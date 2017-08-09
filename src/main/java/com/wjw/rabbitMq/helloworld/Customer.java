@@ -13,7 +13,7 @@ import com.rabbitmq.client.AMQP.BasicProperties;
 
 /**
  * @author Administrator
- *消息接收者
+ * 消息接收者
  */
 public class Customer {
 	public static void main(String[] args) throws IOException, TimeoutException{
